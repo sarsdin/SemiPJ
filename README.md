@@ -30,3 +30,5 @@ git push<br>
    ex) git push origin master<br>
        git push -u origin master == git push --set-upstream origin master<br>
   파라미터가 없으면 origin 저장소에 push한다.<br>
+
+<br><br>추가할 사항 있으면 직접 추가 바랍니다!
