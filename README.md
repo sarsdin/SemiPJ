@@ -1,7 +1,7 @@
 # SemiPJ
 kh_semiPJ
 
-
+![배쉬나cmd](img/bash.png)
 처음 git 설정 <br>
 git --version<br>
 git init            ---현재 폴더(pwd)에 로컬저장소를 생성. 숨겨진폴더인 .Git를 생성. bash일경우 ls -al 명령어로 확인가능.<br>
