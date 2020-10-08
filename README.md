@@ -21,7 +21,7 @@ git remote show [저장소명] ---지정한 특정 원격저장소의 정보출�
 <br>
 git status        ---현재 로컬저장소에 add한 상황이나 commit된 상황 보여줌.<br>
 git add [file, ...]   ---local git저장소(내컴의 저장소: .Git(숨겨진폴더))에 추가<br>
-git commit -m "메시지들 [실제 commit할 file명(안써도됨)]"  ---변경된 파일 저장완료<br>
+git commit -m "메시지들 [실제 commit할 file명(안써도됨)]"  ---변경된 파일 저장완료. 여기까지하면 push할 준비가 된 것.<br>
 <br>
 <br>
 git push<br>
