@@ -30,7 +30,9 @@ git push<br>
    ex) git push origin master<br>
        git push -u origin master == git push --set-upstream origin master<br>
   파라미터가 없으면 origin 저장소에 push한다.<br>
-  
+<br>
+<br>
+![깃트랜잭션 동작 흐름도](img/git_transaction.png)
 git pull [저장소명] &nbsp;&nbsp;---원격저장소의 최신내용을 로컬저장소로 가져온다.(최신화&동기화)
 
 <br><br>추가할 사항 있으면 직접 추가 바랍니다!
