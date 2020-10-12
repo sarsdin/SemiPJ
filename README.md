@@ -35,4 +35,5 @@ git push<br>
 ![깃트랜잭션 동작 흐름도](img/git_transaction.png)
 git pull [저장소명] &nbsp;&nbsp;---원격저장소의 최신내용을 로컬저장소로 가져온다.(최신화&동기화)
 
-<br><br>추가할 사항 있으면 직접 추가 바랍니다!
+<br><br>추가할 사항 있으면 직접 추가 바랍니다!<br>
+유용한 site : https://backlog.com/git-tutorial/kr/stepup/stepup1_1.html
