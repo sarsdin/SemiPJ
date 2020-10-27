@@ -1,0 +1,2 @@
+-- 펫뉴스
+CREATE TABLE NEWS();

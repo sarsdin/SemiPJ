@@ -1,0 +1,3 @@
+bgcolor : #fffff9
+maincolor : #f5f5dc
+pointcolor : #f4de97
